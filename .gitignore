@@ -6,7 +6,7 @@
 /.config
 /.config.old
 /.toolchain_build_ver
-/bin
+/bin/base/*
 /build_dir
 /staging_dir
 /tmp
@@ -34,3 +34,5 @@ git-src
 .ccache
 .vscode*
 .config.original
+bin/packages/mipsel_24kc/base/*
+bin/targets/*
